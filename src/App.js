@@ -1,8 +1,13 @@
-import HelloWorld from './HelloWorld';
-import Second from './Second'
-import Third from './Third'
-import Fourth from './Fourth'
-import Fifth from './Fifth'
+import HelloWorld from './Functions/HelloWorld';
+import Second from './Functions/Second'
+import Third from './Functions/Third'
+import Fourth from './Functions/Fourth'
+import Fifth from './Functions/Fifth'
+import Sixth from './Functions/Sixth'
+import Seventh from './Functions/Seventh'
+import Eighth from './Functions/Eighth'
+import Nineth from './Functions/Nineth'
+import Tenth from './Functions/Tenth'
 import './App.css';
 
 function App() {
@@ -17,6 +22,16 @@ function App() {
       <Fourth />
         <br></br>
       <Fifth />
+        <br></br>
+      <Sixth />
+        <br></br>
+      <Seventh />
+        <br></br>
+      <Eighth />
+        <br></br>
+      <Nineth />
+        <br></br>
+      <Tenth />
         <br></br>
     </div>
   );

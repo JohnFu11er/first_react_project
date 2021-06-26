@@ -7,7 +7,7 @@ const Second = () => {
     };
 
     return (
-        <button onClick={mySecond}>Right here!</button>
+        <button onClick={mySecond}>Second</button>
     );
 };
 

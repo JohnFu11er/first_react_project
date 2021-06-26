@@ -7,7 +7,7 @@ const Third = () => {
     };
 
     return (
-        <button onClick={myThird}>Third One</button>
+        <button onClick={myThird}>Third</button>
     );
 };
 
